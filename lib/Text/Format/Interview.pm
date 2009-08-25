@@ -11,7 +11,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 SYNOPSIS
 
@@ -176,6 +176,7 @@ L<http://search.cpan.org/dist/Text-Format-Interview/>
 
 L<http://github.com/singingfish/Test-Format-Interview/tree/master>
 
+=back
 
 =head1 ACKNOWLEDGEMENTS
 
