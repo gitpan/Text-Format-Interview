@@ -7,11 +7,11 @@ Text::Format::Interview - Take a text interview transcript and format to html.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
@@ -169,8 +169,6 @@ L<http://cpanratings.perl.org/d/Text-Format-Interview>
 =item * Search CPAN
 
 L<http://search.cpan.org/dist/Text-Format-Interview/>
-
-=back
 
 =item * Version Control Repository (Github)
 
